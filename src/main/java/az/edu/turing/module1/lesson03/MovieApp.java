@@ -2,6 +2,7 @@ package az.edu.turing.module1.lesson03;
 import java.util.Scanner;
 import java.util.Arrays;
 
+
 public class MovieApp {
     public static void main(String[] args) {
 
@@ -35,3 +36,4 @@ public class MovieApp {
 
     }
 }
+    
